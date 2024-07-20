@@ -112,15 +112,12 @@ const Home = () => {
             <div className="col">
               <section id="cd-timeline" className="cd-container ">
                 <div className="cd-timeline-block ">
-                  <div className="cd-timeline-img cd-picture"></div>
+                  {/* <div className="cd-timeline-img cd-picture"></div> */}
                   <div className="cd-timeline-content ">
                     <h2 className="gsap-reveal-hero">Rutilant Technology</h2>
                     <div
                       className="timeline-content-info "
-                      style={{
-                        display: "flex",
-                        justifyContent: "center",
-                      }}
+                    
                     >
                       <span className="timeline-content-info-title gsap-reveal-hero">
                         <i className="fa fa-certificate" aria-hidden="true" />
@@ -150,7 +147,7 @@ const Home = () => {
                 </div>
 
                 <div className="cd-timeline-block">
-                  <div className="cd-timeline-img cd-movie"></div>
+                  {/* <div className="cd-timeline-img cd-movie"></div> */}
                   <div className="cd-timeline-content">
                     <h2 className="gsap-reveal-hero">Codilite</h2>
                     <div
@@ -188,7 +185,7 @@ const Home = () => {
                 </div>
 
                 <div className="cd-timeline-block">
-                  <div className="cd-timeline-img cd-picture"></div>
+                  {/* <div className="cd-timeline-img cd-picture"></div> */}
                   <div className="cd-timeline-content">
                     <h2 className="gsap-reveal-hero">Meritorious Infotech</h2>
                     <div
